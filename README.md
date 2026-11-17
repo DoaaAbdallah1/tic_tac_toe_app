@@ -52,16 +52,6 @@ To run the project locally:
    flutter run
    ```
 
-## Project Structure
-
-```text
-lib/
-  main.dart
-  ...
-assets/
-  images/
-    final_compressed.mp4
-```
 
 ## Author
 
